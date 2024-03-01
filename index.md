@@ -11,3 +11,8 @@ var myVar2 = "Hello, world!";
 var myVar = "Hello, world!";
 var myVa = "Hello, world!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] check sth
+- [ ] *test*
